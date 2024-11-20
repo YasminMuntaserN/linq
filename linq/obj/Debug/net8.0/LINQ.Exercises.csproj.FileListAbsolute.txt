@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\linq\linq\bin\Debug\net8.0\LINQ.Exercises.exe
+C:\Users\TOP\Desktop\linq\linq\bin\Debug\net8.0\LINQ.Exercises.deps.json
+C:\Users\TOP\Desktop\linq\linq\bin\Debug\net8.0\LINQ.Exercises.runtimeconfig.json
+C:\Users\TOP\Desktop\linq\linq\bin\Debug\net8.0\LINQ.Exercises.dll
+C:\Users\TOP\Desktop\linq\linq\bin\Debug\net8.0\LINQ.Exercises.pdb
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.AssemblyInfo.cs
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.sourcelink.json
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.dll
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\refint\LINQ.Exercises.dll
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.pdb
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\LINQ.Exercises.genruntimeconfig.cache
+C:\Users\TOP\Desktop\linq\linq\obj\Debug\net8.0\ref\LINQ.Exercises.dll
