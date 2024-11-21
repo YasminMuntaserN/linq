@@ -1408,6 +1408,8 @@ Jack, 40
 */
 
 ```
+---
+
 ## IEnumerable Vs IQueryable Interfaces :
 
 
@@ -1490,7 +1492,7 @@ The this keyword can be used to reference the current instance's fields, propert
 The this keyword can be used to call another constructor in the same class.
 3. Passing the Current Instance
 The this keyword can be used to pass the current instance of the class as an argument to another method or constructor.
- 4.The fourth use is the Extension Method:
+4.The fourth use is the Extension Method:
 #### Defining an Extension Method:
 Extension methods are a powerful feature in C# that allows developers to add new methods to an existing type without modifying the original type or creating a new derived type. These methods appear as if they are part of the type being extended and can be called on instances of that type directly.
 #### Rules for Extension Methods:
