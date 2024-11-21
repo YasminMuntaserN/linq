@@ -952,8 +952,8 @@ foreach (var number in allNumbers)
 // Output: 1 2 3 4 5 6 7 8 9
 ```
 #### Difference between Concatenation Using Instantiation and Concatenation Using Multiple Sequences:
-- *Multiple Sequences: Use this when we already have all the data we need and simply want to merge them.
-- *Using Instantiation: Use this when additional data needs to be generated or fetched dynamically before combining.
+- **Multiple Sequences:** Use this when we already have all the data we need and simply want to merge them.
+- **Using Instantiation:** Use this when additional data needs to be generated or fetched dynamically before combining.
 
 ---
 ## Aggregate Operations in LINQ:
@@ -1492,7 +1492,7 @@ The this keyword can be used to reference the current instance's fields, propert
 The this keyword can be used to call another constructor in the same class.
 3. Passing the Current Instance
 The this keyword can be used to pass the current instance of the class as an argument to another method or constructor.
-4.The fourth use is the Extension Method:
+4. The fourth use is the Extension Method:
 #### Defining an Extension Method:
 Extension methods are a powerful feature in C# that allows developers to add new methods to an existing type without modifying the original type or creating a new derived type. These methods appear as if they are part of the type being extended and can be called on instances of that type directly.
 #### Rules for Extension Methods:
